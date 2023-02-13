@@ -17,13 +17,13 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone git@github.com:elysonsarmento/vrteste.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd vrteste
 ```
 
 Instale as dependências
