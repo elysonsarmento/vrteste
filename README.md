@@ -1,15 +1,41 @@
-# Typescript Nodejs Mongodb CRUD
-![](docs/screenshot.png)
 
-# Installation
+# Projeto NODEJS
+
+Este projeto é um teste de seleção para a empresa VR.
+
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+
+`MONGODB_URI`
+
+
+
+## Rodando o projeto
+
+Clone o projeto
+
 ```bash
-npm install
-npm build
-npm start
+  git clone https://link-para-o-projeto
 ```
 
-### TODO
+Entre no diretório do projeto
 
-* [ ] Add Search Input
-* [ ] Add Authentication
-* [ ] 
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
+
+Caso esteja rodando localmente, ira ser printado no console a uri para acessar a API.
